@@ -16,7 +16,7 @@ Type in your terminal: pip install -r requirements.txt
 ```
 
 ```
-Run the program 🐍
+After all required dependencies are installed, run the program 🐍
 ```
 
 ## Description 📜
