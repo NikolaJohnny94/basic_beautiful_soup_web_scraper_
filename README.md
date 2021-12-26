@@ -11,9 +11,12 @@ Setup you virtual environment [python -m venv venv] and then navigate to Scripts
 ```
 
 ```
-After virtual envirnment is activated, copy requirements.txt in venv folder.
+After virtual envirnment is activated, copy requirements.txt and paste it in the venv folder.
 Type in your terminal: pip install -r requirements.txt
+```
 
+```
+Run the program 🐍
 ```
 
 ## Description 📜
